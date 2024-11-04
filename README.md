@@ -1,6 +1,6 @@
 # awesome-devops (101)
 
-These websites shaped my understanding and thoughts of the industry:
+These websites have significantly shaped my understanding and perspective on the industry:
 
 - https://martinfowler.com/articles/developer-effectiveness.html
     - and thus `Accelerate` and the `State of DevOps report`
@@ -9,23 +9,23 @@ These websites shaped my understanding and thoughts of the industry:
 - https://trunkbaseddevelopment.com/
 - https://web.devopstopologies.com/
 - https://cloud.google.com/architecture/devops/capabilities
-    - a broad range of topics around version control, trunk-based development, CI, deployment automation, testing, delivery, test data management, shifting-left on security ...  very detailed and well put together
+    - covering a broad range of topics such as version control, trunk-based development, CI, deployment automation, testing, delivery, test data management, and shifting left on security. It is very detailed and well put together.
 - [Agile Product Ownership in a Nutshell video](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 ## Definitions
-- [DevOps defined by wikipedia](https://en.wikipedia.org/wiki/DevOps)
+- [DevOps defined by Wikipedia](https://en.wikipedia.org/wiki/DevOps)
 - [DevOps defined by AWS](https://aws.amazon.com/devops/what-is-devops/)
 - [DevOps defined by Atlassian](https://www.atlassian.com/devops)
 - [DevOps defined by SAFe](http://www.scaledagileframework.com/devops/)
 
 ## Frameworks
 
-- [DevOps Bookmarks](http://www.devopsbookmarks.com/) - There are new awesome tools and frameworks being released everyday. This is an open and transparent attempt at aggregating all those.
+- [DevOps Bookmarks](http://www.devopsbookmarks.com/) - There are new awesome tools and frameworks being released every day. This is an open and transparent attempt at aggregating all those.
 
 ## Lists
 
-- [Devops Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps, SRE or any other Operations Role in 2024
-- [AcalephStorage :: Awesome DevOps](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
+- [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for DevOps, SRE or any other Operations Role in 2024.
+- [AcalephStorage :: Awesome DevOps](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for DevOps.
 - [joubertredrat :: Awesome DevOps](https://github.com/joubertredrat/awesome-devops) - This is the awesome list with all open source and free applications that you can use in your management.
 - [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 
@@ -36,23 +36,19 @@ These websites shaped my understanding and thoughts of the industry:
 - [gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
 - [DevOps Checklist](http://devopschecklist.com/)
 - [15 Point Checklist](https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448)
-- [The Must Know Checklist For DevOps & Site Reliability Engineers
-  ](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
+- [The Must Know Checklist For DevOps & Site Reliability Engineers](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
 - [xebialabs periodic-table-of-devops-tools](https://xebialabs.com/periodic-table-of-devops-tools/)
 - [xebialabs - release and deployment pipeline](https://xebialabs.com/solutions/devops/)
-- [Why the Best Companies and Developers Give Away Almost Everything They Do
-  ](http://blog.ycombinator.com/why-the-best-give-away/)
-- [The twelve-factor App](https://12factor.net/)
+- [Why the Best Companies and Developers Give Away Almost Everything They Do](http://blog.ycombinator.com/why-the-best-give-away/)
+- [The Twelve-Factor App](https://12factor.net/)
 
 ## Communities
 
 - [DevOps Forum](https://devops-forum.slack.com)
 
-
 ## Technology
 
 Interactive "Playgrounds" in your browser: https://www.katacoda.com/
-
 
 ### Bash
 
@@ -65,7 +61,7 @@ Interactive "Playgrounds" in your browser: https://www.katacoda.com/
 - [Atlassian Article About CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 - [RedHat Article About CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 - [GitHub Actions Official Doc](https://docs.github.com/en/actions)
-- [FreeCodeCamp Github Actions Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ)
+- [FreeCodeCamp GitHub Actions Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ)
 
 #### GitOps
 
@@ -74,8 +70,7 @@ Interactive "Playgrounds" in your browser: https://www.katacoda.com/
 
 ### Containers
 
-Containers are an amazing innovation that have many every day uses. They can be used locally, in your build servers, for development and production deployments. You can also use them to test new services and keep your laptop free of clutter!
-How to build, test and deploy modern code in a repeatable fashion: https://3musketeers.io/
+Containers are an amazing innovation that have many everyday uses. They can be used locally, in your build servers, for development and production deployments. You can also use them to test new services and keep your laptop free of clutter! How to build, test and deploy modern code in a repeatable fashion: https://3musketeers.io/
 
 #### Docker
 
@@ -84,14 +79,14 @@ How to build, test and deploy modern code in a repeatable fashion: https://3musk
 
 #### Kubernetes (k8s)
 
-Intros:
+**Intros:**
 
 - https://en.m.wikipedia.org/wiki/Kubernetes
 - https://danlebrero.com/2018/07/09/kubernetes-explained-in-pictures-the-theme-park-analogy/
 - https://youtu.be/Q4W8Z-D-gcQ
 - https://youtu.be/R9-SOzep73w
 
-k8s documentation:
+**k8s documentation:**
 
 - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
@@ -99,14 +94,13 @@ k8s documentation:
 - https://kubernetes.io/docs/concepts/configuration/configmap/
 - https://kubernetes.io/docs/reference/kubectl/cheatsheet/#interacting-with-running-pods
 
-
-learn k8s interactivly:
+**Learn k8s interactively:**
 
 - https://www.katacoda.com/courses/kubernetes
 - https://www.katacoda.com/courses/kubernetes/playground
 - https://katacoda.com/contino
 
-more k8s:
+**More k8s:**
 
 - https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces
 - https://github.com/ramitsurana/awesome-kubernetes
@@ -117,6 +111,26 @@ more k8s:
 - https://www.redhat.com/en/topics/microservices/what-is-istio
 - https://www.youtube.com/watch?v=6zDrLvpfCK4
 - https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy
+
+### IaC (Infrastructure as Code)
+
+#### Terraform
+
+Terraform is a powerful tool for building, changing, and versioning infrastructure safely and efficiently. Below are some valuable resources to help you learn Terraform:
+
+#### Official Documentation and Tutorials
+
+- [Terraform Official Documentation](https://developer.hashicorp.com/terraform/docs) - Comprehensive guide and documentation by HashiCorp.
+- [Terraform Module Best Practices](https://www.terraform.io/docs/language/modules/develop/structure.html) - Tips and best practices for structuring Terraform modules.
+
+#### Courses and Video Content
+
+- [FreeCodeCamp Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - A beginner-friendly course covering Terraform basics. I personally love Sanjeev & his videos :D
+- [Terraform Explained](https://www.youtube.com/watch?v=YcJ9IeukJL8) - An introductory video explaining Terraform's purpose and usage. I personally utilized this video as a beginner.
+
+#### Hands-On Labs and Practice
+
+- [For hands-on labs](https://learn.kodekloud.com/user/courses/terraform-basics-training-course)
 
 ### Logging and Monitoring
 
@@ -132,5 +146,3 @@ more k8s:
 - https://www.youtube.com/watch?v=ESub4SAKouI
 - https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/
 - https://www.youtube.com/watch?v=PHcnmTdVPT0 - 4 Golden Signals is important
-
-
